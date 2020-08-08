@@ -44,31 +44,32 @@ Definidas as necessidades e objetivos, você deve começar a elaborar o projeto 
 
 Para deixar o planejamento mais objetivo e claro, responda as seguintes questões:
 
-Que tipo de atividade a cooperativa irá desenvolver?
-Para quem a cooperativa irá desenvolver e oferecer seus produtos?
-De que forma a cooperativa irá garantir a sustentabilidade financeira?
-Quais são os pontos fortes e os pontos fracos do coletivo?
-Que tipo de adversidade vocês irão enfrentar, seja regional, nacional ou internacional?
+- Que tipo de atividade a cooperativa irá desenvolver?
+- Para quem a cooperativa irá desenvolver e oferecer seus produtos?
+- De que forma a cooperativa irá garantir a sustentabilidade financeira?
+- Quais são os pontos fortes e os pontos fracos do coletivo?
+- Que tipo de adversidade vocês irão enfrentar, seja regional, nacional ou internacional?
+
 Depois de encontrar respostas para essas questões, organize-as em termos claros em um documento. Ele irá guiar a implementação do projeto.
 
 ## Escolha do ramo
 
 No Brasil, há 13 ramos de cooperativas definidos. Para poder exercer as atividades, é preciso escolher o ramo para se adequar. Veja quais são eles:
 
-1 - Consumo: Os grupos fazem compras de produtos coletivamente, para poderem conseguir um preço menor. Servem para abastecer as próprias finalidades.
-2 - Sociais: O objetivo é integrar pessoas no mercado para que elas realizem determinados trabalhos. Servem para ajudar trabalhadores que se encontram em desvantagem perante outros.
-3 - Trabalho: São feitas para reunir em uma única organização várias pessoas que desempenham a mesma atividade de maneira autônoma. As cooperativas de trabalho servem para oferecer melhores condições profissionais para todos.
-4 - Educacionais: Funcionam para garantir outras formas de ensino que não as tradicionais. São formadas por professores autônomos e pais de alunos, que, por meio de escolas, prestam diversos serviços de educação.
-5 - Transporte: São parecidas com as cooperativas de trabalho, com a diferença de que seus membros são trabalhadores do ramo de transporte. Eles prestam serviços de cargas e viagens. Devido às particularidades da função, trata-se de uma categoria própria, não se enquadrando no ramo das cooperativas de trabalho.
-6 - Agropecuárias: É nessa categoria que as cooperativas são mais enquadradas. Estima-se que aproximadamente 50% de tudo o que é produzido no meio agrário do Brasil passa de alguma forma por uma cooperativa. Participam delas produtores rurais de vários perfis, agropastoris e trabalhadores do ramo da pesca.
-7 - Saúde: São formadas por médicos e outros profissionais de saúde, com o objetivo de oferecer serviços desse nicho. Normalmente são criadas para atender pessoas que não têm condição de adquirir os planos de saúde tradicionais.
-8 - Crédito: Exercem funções financeiras, como empréstimo e administração de poupanças. Seu trabalho é próximo de instituições financeiras, e por isso o Banco Central do Brasil regula todas as suas atividades.
-9 - Habitacionais: Oferecem imóveis para os membros, por meio de uma contribuição mensal dos cooperados.
-10 - Produção: É uma organização feita por produtores que trabalham de maneira comum. Ou seja, eles mesmos são donos da propriedade dos meios de produção, de forma que compartilham os lucros.
-11 - Infraestrutura: As cooperativas de estrutura estão relacionadas à serviços básicos como água, energia, saneamento básico, segurança e limpeza pública, entre outros.
-12 - Mineral: Quando mineradoras se reúnem para realizar trabalhos de extração, industrialização e comercialização dos minérios.
-13 - Turismo e lazer: São prestadoras de serviços relacionados ao turismo e o lazer, como hospedagem e guiamento.
-14 - Outro: Quando o ramo que será exercido não se enquadra em nenhum dos segmentos aqui descritos, é preciso adequá-lo a um novo. Com o tempo, alguns ramos podem deixar de existir e outros surgirem, de acordo com as regras da OCB.
+- 1 - Consumo: Os grupos fazem compras de produtos coletivamente, para poderem conseguir um preço menor. Servem para abastecer as próprias finalidades.
+- 2 - Sociais: O objetivo é integrar pessoas no mercado para que elas realizem determinados trabalhos. Servem para ajudar trabalhadores que se encontram em desvantagem perante outros.
+- 3 - Trabalho: São feitas para reunir em uma única organização várias pessoas que desempenham a mesma atividade de maneira autônoma. As cooperativas de trabalho servem para oferecer melhores condições profissionais para todos.
+- 4 - Educacionais: Funcionam para garantir outras formas de ensino que não as tradicionais. São formadas por professores autônomos e pais de alunos, que, por meio de escolas, prestam diversos serviços de educação.
+- 5 - Transporte: São parecidas com as cooperativas de trabalho, com a diferença de que seus membros são trabalhadores do ramo de transporte. Eles prestam serviços de cargas e viagens. Devido às particularidades da função, trata-se de uma categoria própria, não se enquadrando no ramo das cooperativas de trabalho.
+- 6 - Agropecuárias: É nessa categoria que as cooperativas são mais enquadradas. Estima-se que aproximadamente 50% de tudo o que é produzido no meio agrário do Brasil passa de alguma forma por uma cooperativa. Participam delas produtores rurais de vários perfis, agropastoris e trabalhadores do ramo da pesca.
+- 7 - Saúde: São formadas por médicos e outros profissionais de saúde, com o objetivo de oferecer serviços desse nicho. Normalmente são criadas para atender pessoas que não têm condição de adquirir os planos de saúde tradicionais.
+- 8 - Crédito: Exercem funções financeiras, como empréstimo e administração de poupanças. Seu trabalho é próximo de instituições financeiras, e por isso o Banco Central do Brasil regula todas as suas atividades.
+- 9 - Habitacionais: Oferecem imóveis para os membros, por meio de uma contribuição mensal dos cooperados.
+- 10 - Produção: É uma organização feita por produtores que trabalham de maneira comum. Ou seja, eles mesmos são donos da propriedade dos meios de produção, de forma que compartilham os lucros.
+- 11 - Infraestrutura: As cooperativas de estrutura estão relacionadas à serviços básicos como água, energia, saneamento básico, segurança e limpeza pública, entre outros.
+- 12 - Mineral: Quando mineradoras se reúnem para realizar trabalhos de extração, industrialização e comercialização dos minérios.
+- 13 - Turismo e lazer: São prestadoras de serviços relacionados ao turismo e o lazer, como hospedagem e guiamento.
+- 14 - Outro: Quando o ramo que será exercido não se enquadra em nenhum dos segmentos aqui descritos, é preciso adequá-lo a um novo. Com o tempo, alguns ramos podem deixar de existir e outros surgirem, de acordo com as regras da OCB.
 
 ## Crie os valores da cooperativa
 
