@@ -105,10 +105,10 @@ O associado deve contribuir no máximo com 1/3 (um terço) do total das quotas. 
 
 A seguir você fará a fundação, veja:
 
-**Reunião**: É feita com todas as pessoas interessadas no projeto para determinar os objetivos, escolher a comissão e eleger o coordenador dos trabalhos.
-**Verificação do trabalho**: É preciso, então, discutir com todos os associados a viabilidade das condições do projeto.
-**Proposta do estatuto**: Os membros deverão conhecer e discutir as propostas do estatuto e receber uma cópia para todos.
-**Fundação**: A Assembleia Geral de Constituição é então criada para fundar a cooperativa. Determine a hora e o local com antecedência, utilizando as melhores formas de avisar todos os interessados.
+- **Reunião**: É feita com todas as pessoas interessadas no projeto para determinar os objetivos, escolher a comissão e eleger o coordenador dos trabalhos.
+- **Verificação do trabalho**: É preciso, então, discutir com todos os associados a viabilidade das condições do projeto.
+- **Proposta do estatuto**: Os membros deverão conhecer e discutir as propostas do estatuto e receber uma cópia para todos.
+- **Fundação**: A Assembleia Geral de Constituição é então criada para fundar a cooperativa. Determine a hora e o local com antecedência, utilizando as melhores formas de avisar todos os interessados.
 
 É necessário que a assembleia tenha no mínimo 20 pessoas.
 
