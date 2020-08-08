@@ -6,20 +6,20 @@ Para criar uma organização assim, antes de tudo você precisa de planejamento.
 
 ## Tópicos
 
-- [Forme o grupo]
-- [Estabeleça o objetivo]
-- [Início do projeto]
-- [Escolha do ramo]
-- [Crie os valores da cooperativa]
-- [Crie a estrutura da organização]
-- [Formalização]
-- [Capital Social]
-- [Processo de fundação]
-- [Receita e fundos]
-- [Documentação]
-- [Junta comercial]
-- [Receita Federal]
-- [Conclusão]
+- [Forme o grupo](#forme-o-grupo)
+- [Estabeleça o objetivo](#estabeleça-o-objetivo)
+- [Início do projeto](#início-do-projeto)
+- [Escolha do ramo](#escolha-do-ramo)
+- [Crie os valores da cooperativa](#crie-os-valores-da-cooperativa)
+- [Crie a estrutura da organização](#crie-a-estrutura-da-organização)
+- [Formalização](#formalização)
+- [Capital Social](#capital-social)
+- [Processo de fundação](#processo-de-fundação)
+- [Receita e fundos](#receita-e-fundos)
+- [Documentação](#documentação)
+- [Junta comercial](#junta-comercial)
+- [Receita Federal](#receita-federal)
+- [Conclusão](#conclusão)
 
 ## Forme o grupo
 
@@ -137,7 +137,9 @@ A documentação necessária deve ser apresentada na reunião para constituir a 
 - Cópia de um comprovante de residência do presidente.
 - Cópia de um comprovante da sede de funcionamento.
 - Quatro vias da Ata de Assembleia Geral de Constituição e do Estatuto. Elas devem estar todas rubricadas pelos associados fundadores, e na última página de cada é preciso ter o visto de advogado.
-- Receita Federal
+
+## Receita Federal
+
 - Comprovante de residência e cópia do RG e do CPF de todos os diretores.
 - Ficha cadastral e ficha complementar (CNPJ).
 - Lista dos associados.
