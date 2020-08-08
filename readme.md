@@ -6,20 +6,20 @@ Para criar uma organização assim, antes de tudo você precisa de planejamento.
 
 ## Tópicos
 
-- Forme o grupo
-- Estabeleça o objetivo
-- Início do projeto
-- Escolha do ramo
-- Crie os valores da cooperativa
-- Crie a estrutura da organização
-- Formalização
-- Capital Social
-- Processo de fundação
-- Receita e fundos
-- Documentação
-- Junta comercial
-- Receita Federal
-- Conclusão
+- [Forme o grupo]
+- [Estabeleça o objetivo]
+- [Início do projeto]
+- [Escolha do ramo]
+- [Crie os valores da cooperativa]
+- [Crie a estrutura da organização]
+- [Formalização]
+- [Capital Social]
+- [Processo de fundação]
+- [Receita e fundos]
+- [Documentação]
+- [Junta comercial]
+- [Receita Federal]
+- [Conclusão]
 
 ## Forme o grupo
 
