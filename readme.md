@@ -2,24 +2,24 @@
 
 As cooperativas servem para organizar trabalhadores que exercerão determinadas funções. Elas são úteis porque garantem vantagens para os membros e facilitam a organização do trabalho. Para criar uma cooperativa é necessário fazer o registro na Junta Comercial. Segundo a Organização das Cooperativas do Brasil (OCB) existem hoje 13 segmentos de cooperativas.
 
-Para criar uma organização assim, antes de tudo você precisa de planejamento. Os primeiros passos envolvem encontrar o número adequado de pessoas para iniciar o projeto. Esse artigo visa lhe ajudar nesse trabalho. Ele está dividido em passos, para facilitar a criação da cooperativa. Acompanhe.
+Para criar uma organização assim, antes de tudo você precisa de planejamento. Os primeiros passos envolvem encontrar o número adequado de pessoas para iniciar o projeto. Esse artigo visa lhe ajudar nesse trabalho. Ele está dividido em passos, para facilitar a criação da cooperativa.
 
 ## Tópicos
 
-- [] Forme o grupo
-- [] Estabeleça o objetivo
-- [] Início do projeto
-- [] Escolha do ramo
-- [] Crie os valores da cooperativa
-- [] Crie a estrutura da organização
-- [] Formalização
-- [] Capital Social
-- [] Processo de fundação
-- [] Receita e fundos
-- [] Documentação
-- [] Junta comercial
-- [] Receita Federal
-- [] Conclusão
+- [ ] Forme o grupo
+- [ ] Estabeleça o objetivo
+- [ ] Início do projeto
+- [ ] Escolha do ramo
+- [ ] Crie os valores da cooperativa
+- [ ] Crie a estrutura da organização
+- [ ] Formalização
+- [ ] Capital Social
+- [ ] Processo de fundação
+- [ ] Receita e fundos
+- [ ] Documentação
+- [ ] Junta comercial
+- [ ] Receita Federal
+- [ ] Conclusão
 
 ## Forme o grupo
 
@@ -144,5 +144,3 @@ A documentação necessária deve ser apresentada na reunião para constituir a 
 ## Conclusão
 
 As cooperativas dependem principalmente das discussões dos interessados a respeito das regras que terão. O objetivo principal é chegar a um acordo, com regras que sejam obedecidas e respeitadas por todos. Em seguida parte-se para a parte legal, a fim de obter o registro na Junta Comercial para o início das atividades.
-
-Gostou do texto? Deixe um comentário!
