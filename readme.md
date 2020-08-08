@@ -147,3 +147,10 @@ A documentação necessária deve ser apresentada na reunião para constituir a 
 ## Conclusão
 
 As cooperativas dependem principalmente das discussões dos interessados a respeito das regras que terão. O objetivo principal é chegar a um acordo, com regras que sejam obedecidas e respeitadas por todos. Em seguida parte-se para a parte legal, a fim de obter o registro na Junta Comercial para o início das atividades.
+
+## Histórico do grupo
+
+### Primeiro bate papo (07/08/2020 20:00)
+
+[Gravação de tela do Discord](https://youtu.be/dB0sM_XBHIE)
+[Apenas som](https://soundcloud.com/leandro-silva-95/ata-de-reuniao-cnds-07082020)
