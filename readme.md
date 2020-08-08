@@ -4,8 +4,6 @@ As cooperativas servem para organizar trabalhadores que exercerão determinadas 
 
 Para criar uma organização assim, antes de tudo você precisa de planejamento. Os primeiros passos envolvem encontrar o número adequado de pessoas para iniciar o projeto. Esse artigo visa lhe ajudar nesse trabalho. Ele está dividido em passos, para facilitar a criação da cooperativa.
 
-https://img.shields.io/badge/Cooperativa-Em%20análise-blue
-
 ## Tópicos
 
 - [Forme o grupo](#forme-o-grupo)
